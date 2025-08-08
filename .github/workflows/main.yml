@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Discover Lullaby Locks: affordable luxury baby hair accessories that blend comfort, safety, and style. Hypoallergenic, secure, and adorable—for delightful styling you can trust." />
+  <title>Lullaby Locks: Gentle Luxury for Little Tresses</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #faf9f8;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background: linear-gradient(to right, #fff0f5, #fff8e7);
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+    }
+    header p {
+      color: #666;
+      margin-bottom: 1.5rem;
+    }
+    header a {
+      display: inline-block;
+      margin: 0.3rem;
+      padding: 0.6rem 1.2rem;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .btn-primary {
+      background-color: #e75480;
+      color: white;
+    }
+    .btn-secondary {
+      border: 1px solid #ccc;
+      color: #333;
+      background: white;
+    }
+    main {
+      max-width: 900px;
+      margin: auto;
+      background: white;
+      padding: 2rem;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+      border-radius: 12px;
+    }
+    img {
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+    }
+    h2, h3 {
+      margin-top: 1.5rem;
+      color: #e75480;
+    }
+    ul {
+      margin-left: 1.5rem;
+    }
+    footer {
+      font-size: 0.9rem;
+      color: #555;
+      margin-top: 2rem;
+      border-top: 1px solid #eee;
+      padding-top: 1rem;
+    }
+    .hashtags span {
+      display: inline-block;
+      background: #f3f3f3;
+      padding: 0.3rem 0.6rem;
+      margin: 0.2rem;
+      border-radius: 5px;
+      font-size: 0.85rem;
+    }
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 1.5rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Lullaby Locks: Gentle Luxury for Little Tresses</h1>
+    <p>Comfort. Safety. Style. How Lullaby Locks brings parent-friendly hair accessories to every stage of childhood.</p>
+    <a href="https://lullabylocks.com/" target="_blank" class="btn-primary">Shop now</a>
+    <a href="#learn-more" class="btn-secondary">Learn more</a>
+  </header>
+
+  <main>
+    <img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1200&auto=format&fit=crop" alt="Baby wearing a Lullaby Locks headband" />
+    <p><em>Comfort-first accessories for happy little ones.</em></p>
+
+    <h2 id="learn-more">Why Lullaby Locks Feels Different</h2>
+    <p>Lullaby Locks was created out of a parent’s wish: find hair accessories that treat little heads with kindness. From newborn headbands to tween-friendly clips, the brand prioritizes soft, hypoallergenic materials and thoughtful designs so parents don’t have to choose between safety and style.</p>
+
+    <h3>Comfort & Safety — First, Always</h3>
+    <p>Every piece is built for sensitive skin: non-irritating fabrics, snag-free seams, and secure finishes that sit gently without pinching. These tiny details keep irritation and red marks at bay, giving parents peace of mind during everyday wear and special moments alike.</p>
+
+    <h3>Designs that Grow With Your Child</h3>
+    <p>Lullaby Locks offers age-tailored collections — baby, toddler, kid, and tween — and understands that what works for a newborn won’t always suit an active 7-year-old. The range mixes playful accents with subtle sophistication, inspired by French and Korean aesthetics so outfits look finished without fuss.</p>
+
+    <h3>Benefits for Parents</h3>
+    <ul>
+      <li>Easy-to-wear pieces that stay put during playtime</li>
+      <li>Durable construction for repeated washing and daily use</li>
+      <li>Affordable price points so you can stock up without stress</li>
+    </ul>
+
+    <h2>Real (and Relatable) — A Tiny Story</h2>
+    <p>One evening, new parent Priya dressed baby Aria for her first family photos. Between diaper changes and lullabies, Priya worried a headband would irritate Aria’s soft skin. To her relief, the Lullaby Locks pearl headband stayed perfectly in place, Aria smiled for the camera, and the family captured memories without a single tear. That one small detail turned a chaotic moment into a gentle memory.</p>
+
+    <h2>Wrap-Up & Call to Action</h2>
+    <p>If you’re looking for baby accessories that feel as good as they look, Lullaby Locks is a parent-first choice. Thoughtful materials, secure fits, and a curated aesthetic make each piece a little touch of luxury.</p>
+    <a href="https://lullabylocks.com/" target="_blank" class="btn-primary">Shop Lullaby Locks — Find the perfect piece</a>
+
+    <footer>
+      <p><strong>Meta Description:</strong> Discover Lullaby Locks: affordable luxury baby hair accessories that blend comfort, safety, and style. Hypoallergenic, secure, and adorable—for delightful styling you can trust.</p>
+      <div class="hashtags">
+        <strong>Hashtags:</strong>
+        <span>#LullabyLocksLove</span>
+        <span>#GentleEleganceForBabies</span>
+        <span>#ParentApprovedAccessories</span>
+      </div>
+    </footer>
+  </main>
+</body>
+</html>
